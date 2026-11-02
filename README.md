@@ -64,7 +64,7 @@ The PostgreSQL warehouse contains:
 A SQL view, `mart_video_performance`, supports Power BI reporting.
 
 ## Power BI Dashboard
-
+![YouTube Analytics Dashboard](reports/screenshots/youtube_dashboard.png)
 The dashboard includes:
 
 - Total Views
